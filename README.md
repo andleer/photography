@@ -2,21 +2,25 @@
 
 ## Baseline Specifications:
 - **Z MC 105mm f/2.8 Macro VR S**: 1.0x magnification at 0.29m minimum focus distance
-- **Z 70-200mm at 200mm**: 0.2x magnification at 1.0m minimum focus distance  
 - **Z 100-400mm at 400mm**: 0.38x magnification at 0.98m minimum focus distance
+- **Z 70-200mm at 200mm**: 0.2x magnification at 1.0m minimum focus distance  
 - **Z 600mm f/6.3 PF**: 0.16x magnification at 3.9m minimum focus distance
 
 ## Magnification at Various Distances:
 
-| Distance | 105 MC | 70-200 | 70-200 + 1.4x | 100-400 | 100-400 + 1.4x | 600 PF | 600 PF + 1.4x |
-|-:|-:|-:|-:|-:|-:|-:|-:|
-| | f/2.8 | f/2.8 | f/4.0 | f/5.6 | f/8.0 | f/6.3 | f/9.0 |
-| **1m** | 0.29x | 0.20x | 0.28x | 0.37x | 0.52x | | |
-| **2m** | 0.145x | 0.10x | 0.14x | 0.185x | 0.26x | | |
-| **4m** | 0.073x | 0.050x | 0.070x | 0.092x | 0.129x | 0.156x | 0.218x |
-| **8m** | 0.036x | 0.025x | 0.035x | 0.046x | 0.065x | 0.078x | 0.109x |
-| **16m** | 0.018x | 0.013x | 0.018x | 0.023x | 0.032x | 0.039x | 0.055x |
-| **32m** | 0.009x | 0.006x | 0.009x | 0.012x | 0.016x | 0.020x | 0.027x |
+| Distance | 105mm Macro | 70-200mm | 70-200mm + 1.4x | 70-200mm + 2x | 100-400mm | 100-400mm + 1.4x | 100-400mm + 2x | 600mm PF | 600mm PF + 1.4x | 600mm PF + 2x |
+|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|-:|
+| **30cm** | 0.97x* |  |  |  |  |  |  |  |  |  |
+| **50cm** | 0.58x | 0.40x* | 0.56x* | 0.80x* |  |  |  |  |  |  |
+| **75cm** | 0.39x | 0.27x | 0.37x | 0.53x | 0.51x* | 0.71x* | 1.01x* |  |  |  |
+| **1m** | 0.29x | 0.20x | 0.28x | 0.40x | 0.37x | 0.52x | 0.74x |  |  |  |
+| **2m** | 0.145x | 0.10x | 0.14x | 0.20x | 0.185x | 0.26x | 0.37x |  |  |  |
+| **4m** | 0.073x | 0.050x | 0.070x | 0.10x | 0.092x | 0.129x | 0.185x | 0.156x* | 0.218x* | 0.312x* |
+| **8m** | 0.036x | 0.025x | 0.035x | 0.050x | 0.046x | 0.065x | 0.092x | 0.078x | 0.109x | 0.156x |
+| **16m** | 0.018x | 0.013x | 0.018x | 0.025x | 0.023x | 0.032x | 0.046x | 0.039x | 0.055x | 0.078x |
+| **32m** | 0.009x | 0.006x | 0.009x | 0.013x | 0.012x | 0.016x | 0.023x | 0.020x | 0.027x | 0.039x |
+
+*Note: 100-400mm calculated from 0.98m baseline; actual 1m performance may vary slightly
 
 ## Key Insights:
 
